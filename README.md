@@ -33,6 +33,7 @@ Este repositorio contiene la base de datos del proyecto académico **Clínica De
 <img width="1342" height="753" alt="consulta1" src="https://github.com/user-attachments/assets/70bf88ac-feff-4f64-8c10-5246f4446a43" />
 <img width="1341" height="771" alt="consulta2" src="https://github.com/user-attachments/assets/4bb2f4ae-f331-4f5e-81a2-f166781aa621" />
 <img width="1341" height="769" alt="consulta3" src="https://github.com/user-attachments/assets/d2580def-a839-48f5-9cea-d87c5504e8f4" />
+
 **- Diagrama ER**
 <img width="1057" height="795" alt="Diagrama_ER" src="https://github.com/user-attachments/assets/45d8f347-a970-478e-8285-a379d3b69c4d" />
 
