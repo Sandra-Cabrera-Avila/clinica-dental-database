@@ -12,8 +12,10 @@ Este repositorio contiene la base de datos del proyecto académico **Clínica De
 - MySQL Workbench 8.0.43
 
 ## 📂 Estructura del repositorio
-![01/Tablas/tables.sql](https://github.com/Sandra-Cabrera-Avila/clinica-dental-database/blob/1137e8a7209bf24364fdc09c588f9e15e0b026c7/01-Tablas/tables.sql)
-/01-Tablas/tables.sql
+(https://github.com/Sandra-Cabrera-Avila/clinica-dental-database/blob/1137e8a7209bf24364fdc09c588f9e15e0b026c7/01-Tablas/tables.sql)
+(https://github.com/Sandra-Cabrera-Avila/clinica-dental-database/blob/c6a2b7aa5dd1cc4f97efd4c25eb862d9845658ed/02-Inserts/tables.sql)
+(https://github.com/Sandra-Cabrera-Avila/clinica-dental-database/blob/c6a2b7aa5dd1cc4f97efd4c25eb862d9845658ed/03-Connsultar/consultar.sql)
+(https://github.com/Sandra-Cabrera-Avila/clinica-dental-database/blob/c6a2b7aa5dd1cc4f97efd4c25eb862d9845658ed/Diagrama/DiagramaER.png)
 
 https://github.com/Sandra-Cabrera-Avila/clinica-dental-database/blob/main/01-Tablas/tables.sql
 
