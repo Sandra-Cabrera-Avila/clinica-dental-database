@@ -15,3 +15,4 @@ SELECT p.nombres, SUM(pa.monto) AS total_pagado
 FROM pagos pa
 JOIN pacientes p ON pa.id_paciente = p.id_paciente
 GROUP BY p.id_paciente;
+-----
