@@ -15,8 +15,8 @@ Este repositorio contiene la base de datos del proyecto académico **Clínica De
 - https://github.com/Sandra-Cabrera-Avila/clinica-dental-database/blob/main/01-Tablas/tables.sql
 - https://github.com/Sandra-Cabrera-Avila/clinica-dental-database/blob/main/02-Inserts/inserts.sql
 - https://github.com/Sandra-Cabrera-Avila/clinica-dental-database/blob/main/03-Consultas/consultas.sql
-![imagen] (https://github.com/Sandra-Cabrera-Avila/clinica-dental-database/blob/main/Diagrama/Diagrama_ER.png)
-https://github.com/Sandra-Cabrera-Avila/clinica-dental-database/blob/main/README.md
+- https://github.com/Sandra-Cabrera-Avila/clinica-dental-database/blob/main/Diagrama/Diagrama_ER.png
+- https://github.com/Sandra-Cabrera-Avila/clinica-dental-database/blob/main/README.md
 
 ## 📸 Capturas de Pantalla
 **- Crear Base de datos y tablas**
